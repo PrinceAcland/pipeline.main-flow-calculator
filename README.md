@@ -3,7 +3,7 @@
 
 A Streamlit app that calculates fluid velocity, Reynolds number, friction factor and pressure drop for liquid flow in a pipeline, using the Darcy-Weisbach equation. Users select a fluid type (or enter custom fluid properties), pipe diameter, length, flow rate and pipe roughness in the sidebar, and the app returns a results table plus a chart of pressure drop versus flow rate.
 
-Live app: PASTE-YOUR-STREAMLIT-URL-HERE
+Live app: https://pipelinemain-flow-calculator-i7dcniu52mxhvjv5sisldz.streamlit.app/
 
 ## Run locally
 ```
